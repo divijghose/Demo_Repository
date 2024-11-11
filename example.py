@@ -13,6 +13,7 @@ def divide(x,y):
     else:
         return x/y
 
+print("Error")
 print(add(3,4))
 
 print(subtract(3,4))
